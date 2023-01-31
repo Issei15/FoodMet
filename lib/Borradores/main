@@ -1,0 +1,33 @@
+// import 'package:food_met/pages/index.dart';
+
+// void main() => runApp(const MyApp());
+
+// class MyApp extends StatelessWidget {
+//   const MyApp({super.key});
+
+//   @override
+//   Widget build(BuildContext context) {
+//     return MaterialApp(
+//       debugShowCheckedModeBanner: false,
+//       // home: SplashScreen(),
+//       title: 'FoodMet',
+//       initialRoute: '/',
+//       routes: {
+//         '/': (context) => SplashScreen(),
+//         '/home': (context) => const HomePage(),
+//         '/entradas': (context) => const EntradasPage(),
+//         '/platofuerte': ((context) => const PlatoFuertePage()),
+//         '/postres': ((context) => const PostresPage()),
+//         '/bebidas': ((context) => const BebidasPage()),
+//         '/listaProductos': ((context) => const ListProductsPage()),
+//         '/calculadora': ((context) => const CalculadoraPage()),
+//         '/productos': (context) => const ProductPage(),
+//       },
+//       onGenerateRoute: (settings) {
+//         return MaterialPageRoute(
+//           builder: (context) => const Page404(),
+//         );
+//       },
+//     );
+//   }
+// }
