@@ -5,6 +5,8 @@ import '../widgets/home_categorie_section.dart';
 import '../widgets/home_search_widget.dart';
 import '../widgets/items.dart';
 
+//carlos ricardo
+
 class HomePage1 extends StatelessWidget {
   const HomePage1({super.key});
 

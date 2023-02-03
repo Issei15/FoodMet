@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+//carlos ricardo
 
 class EntradasPage extends StatelessWidget {
   const EntradasPage({super.key});
@@ -35,20 +35,7 @@ class EntradasPage extends StatelessWidget {
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [
-                        // Container(
-                        //   padding: EdgeInsets.all(5),
-                        //   decoration: BoxDecoration(
-                        //       color: Colors.orange,
-                        //       borderRadius: BorderRadius.circular(20)),
-                        //   child: const Text(
-                        //     "50",
-                        //     style: TextStyle(
-                        //       fontSize: 14,
-                        //       color: Colors.black,
-                        //       fontWeight: FontWeight.bold,
-                        //     ),
-                        //   ),
-                        // ),
+                      
                       ],
                     ),
                     InkWell(

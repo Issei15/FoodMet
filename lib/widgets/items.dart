@@ -2,6 +2,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 
+
+//carlos ricardo
 class ItemsS extends StatelessWidget {
   const ItemsS({super.key});
 

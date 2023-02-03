@@ -1,5 +1,3 @@
-
-
 import 'package:flutter/material.dart';
 import 'package:food_met/pages/404_page.dart';
 import 'package:food_met/pages/entradas_page.dart';
@@ -7,6 +5,7 @@ import 'package:food_met/pages/home_page.dart';
 import 'package:food_met/pages/product_page.dart';
 import 'package:food_met/pages/splash.dart';
 import 'package:food_met/widgets/items.dart';
+import 'package:food_met/pages/resultados_b.dart';
 
 void main() => runApp(const MyApp());
 
